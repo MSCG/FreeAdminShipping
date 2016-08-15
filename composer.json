@@ -1,0 +1,9 @@
+{
+  "name": "Llian/FreeAdminShipping",
+  "description": "Free shipping only in admin backend of Magento 1",
+  "type": "magento-module",
+  "license":"gpl-3.0",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
